@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 10px;
+    font-family: "Gowun Batang", serif;
+}
+.section-one{
+    background-color: black;
+    padding: 10px ;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    border-radius: 5px;
+}
+.section-one__contact{
+    background-color: orange;
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 2px;
+}
+.section-one__name{
+    font-size: 250%;
+}
+.section-one__role{
+    font-size: 150%;
+}
+.section-two{
+    padding: 5px;
+    
+    
+}
+.section-three li{
+    list-style: none;
+}
+.section-three {
+     background-color: aqua;
+     display: inline-block;
+     border-radius: 5px;
+     font-size: 150%;
+     vertical-align: top;
+     height: 250px;
+}
+.section-four{
+    display: inline-block;
+    background-color: orangered;
+    border-radius: 5px;
+    
+
+}
+.section-four li{
+    list-style: none;
+}
+.section-four h2{
+    font-size: 200%;
+}
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 125%;
+}
+.section-five p a{
+    color: skyblue;
+    text-decoration: none;
+}
+.contact-form__input{
+    border: none;
+    border-bottom: solid black 2px;
+}
+.contact-form__textarea{
+    border: none;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.contact-form__submit{
+    border: none;
+    background-color: orangered;
+    border: 2px ;
+    font-size: large;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.contact-form{
+    font-size: large;
+}
